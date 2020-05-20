@@ -1,0 +1,2 @@
+# Covid-19-Predictions-and-Time-Series-Forecasting
+This project aims to make predictions for the number of hospitalizations and cases for Covid-19. The main takeaway from this project is the power of Random Forest. Within the project I compare the power of Decision Trees and Random Forest. I show the importance of ROC analysis as well as exemplify some weakness correlated with forecasting through Random Forest. 
